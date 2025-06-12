@@ -1,0 +1,51 @@
+A constructor is a special method that is called automatically when an object is created 
+
+it has the same name as the class name
+
+does not have return type
+
+not even void
+
+it is used to intialize object variable
+
+constructor is used to construct to the java obj
+
+Constructor and class name is same
+
+constructor does not return anything and does not have any return type
+
+constructor are functions
+for one constructor can be call only once, when that object is created
+
+Types of Constructors in java:
+
+1. Default constructor (non Parameterized)
+2. Parameterized Constructor
+3. copy constructor (not built in but userdefined)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+11 June
+
+
+Java donot have Destructor because their is an feature as Gabage collector
+
+
+Inheritance:
+	It is an mechanism in java by which one class acquires the properties and behaviour of another class
+	Use:
+		to implement Repetative tasks.
+		Reusability: It avoids duplication of codes
+		Extensibility: you can add feature to new class
+		Polymorphism: It enables runtime polymorphism via method overriding 
+		Code Maintance: Easier to manage & update
+		
+
+Questions:
+
+1. Count the digits
+2. Palindrome
+3. Print all the Divisor
+		
+
